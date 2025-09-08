@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MicroMates</title>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+  <h1>Welcome to MicroMates!</h1>
+  <p>Join us on Kickstarter:</p>
+  <a href="https://www.kickstarter.com/projects/your-project" 
+     style="padding:1em; background:#28a745; color:#fff; text-decoration:none; border-radius:8px;">
+    Back Us on Kickstarter
+  </a>
+</body>
+</html>
